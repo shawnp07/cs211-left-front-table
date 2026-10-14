@@ -21,3 +21,12 @@ int nthFibonacci(int n) {
 }
 ```
 
+## My Favorite Programming Topics
+| Topic | Description |
+|---|---|
+| C Programming | Learning how to write programs in C |
+| Recursion | Solving problems by calling functions again |
+| Memoization | Storing previous results to avoid repeated calculations |
+
+## Image
+![C Programming Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg)
